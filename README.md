@@ -9,11 +9,11 @@ Ce projet est une implémentation du **Bank Kata**, un exercice visant à dével
 - Affichage de l'historique des transactions 📜
 
 ## 🚀 Technologies utilisées
-- **Java** (ou autre langage utilisé)
+- **Java**
 - **JUnit** (pour les tests unitaires)
 
 ## 🛠️ Installation et exécution
 1. **Cloner le repository**
    ```bash
-   git clone [lien-du-repository]
+   git clone [https://github.com/imane-el-mazouz/Bank-Kata.git]
    cd bank-kata
